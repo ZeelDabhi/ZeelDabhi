@@ -111,7 +111,7 @@ export default class Checkout_old extends PageManager {
 
                 checkbox.addEventListener('change', updateComment);
                 if (commentsField) {
-                    commentsField.addEventListener('input', updateComment);c
+                    commentsField.addEventListener('input', updateComment);
                 }
             };
 
